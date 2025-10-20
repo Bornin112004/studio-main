@@ -1,6 +1,6 @@
 # Firebase Studio
 
-This is a NextJS starter project created in Firebase Studio.
+This is a NextJS starter project in Firebase Studio.
 
 ## Running Locally
 
