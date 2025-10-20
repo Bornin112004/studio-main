@@ -1,0 +1,11 @@
+id,department,title,value,change,changeType,status,description,icon,chartType,roles
+mkt-1,Marketing,New Clients Reached,"1,200","+15%",increase,on-track,"vs. previous month",Users,line,"CEO,Manager"
+mkt-2,Marketing,Demos Booked,250,"+20%",increase,on-track,"vs. previous month",Presentation,bar,"Manager,Employee"
+mkt-4,Marketing,Conversion Rate,"4.2%","-0.5%",decrease,at-risk,"vs. previous month",Goal,line,"CEO,Manager"
+eng-1,Engineering,New Features Developed,8,"+2",increase,on-track,"This quarter",GitMerge,bar,"CEO,Manager"
+eng-2,Engineering,Bugs Fixed,124,"-10%",decrease,on-track,"vs. previous month",Bug,bar,"Manager,Employee"
+eng-4,Engineering,Code Coverage,"88%","+2%",increase,on-track,"Project 'Phoenix'",Percent,line,Manager
+tst-1,Testing,New Features Tested,8,"+2",increase,on-track,"This quarter",ListChecks,bar,Manager
+tst-2,Testing,Bugs Found,42,"+5%",increase,at-risk,"vs. previous month (Critical: 5)",Search,bar,"Manager,Employee"
+ceo-1,Overall,Annual Recurring Revenue (ARR),"$12.5M","+15.2%",increase,on-track,"vs. previous year",DollarSign,line,CEO
+ceo-4,Overall,Market Share,"22%","+1.5%",increase,at-risk,"vs. previous quarter",Briefcase,bar,CEO
