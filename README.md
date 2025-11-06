@@ -2,6 +2,16 @@
 
 This is a NextJS starter project in Firebase Studio.
 
+## Testing and Validation
+
+All automated tests pass. See the detailed report in `docs/testing-report.md`.
+
+Quick run:
+
+```bash
+npm test -- --run
+```
+
 ## Running Locally
 
 To download and run this project on your local machine, follow these steps.
